@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.4.6.2",
-  "versionCode": 40602,
-  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v0.4.6-android.2/AngimottiLedger-Android-v0.4.6.2.apk",
-  "sha256": "ef621f68fe16189dbe1c243d2f7a7a30c6a9a53fe7b7b7cef24636394e1ddd31",
-  "releaseNotes": "모바일 그룹형 내비게이션과 통합 설정 화면을 추가했습니다. 실험실 랭킹, 저축 목록, 내역 관리 화면을 모바일 UI로 개선하고 Android 자동 업데이트 다운로드 및 설치 흐름을 추가했습니다.",
-  "publishedAt": "2026-07-16T11:05:00+09:00"
+  "versionName": "0.4.6.3",
+  "versionCode": 40603,
+  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v0.4.6-android.3/AngimottiLedger-Android-v0.4.6.3.apk",
+  "sha256": "e3275934197fbba42e0ffb054aa262c92e8e840aa43b4b7919a1f30d3014ea49",
+  "releaseNotes": "Android WebView에서 세로 스크롤이 간헐적으로 동작하지 않던 긴급 버그를 수정했습니다.",
+  "publishedAt": "2026-07-16T02:28:30.259Z"
 }
