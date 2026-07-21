@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.0.0",
-  "versionCode": 100000,
-  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.0.0-android.1/AngimottiLedger-Android-v1.0.0.apk",
-  "sha256": "ab9894caf5a3397e197d66d65c6581ae33f88ed541c757760b6b7c90922f7c51",
-  "releaseNotes": "정식 1.0.0: 현금흐름 러너·재생·날짜 스냅샷, 실제 달력형 지출 캘린더, 월내 순흐름 계단선과 신규 실험 기능 4종을 추가하고 실험실 생애주기를 개편했습니다.",
-  "publishedAt": "2026-07-21T01:58:40Z"
+  "versionName": "1.0.1",
+  "versionCode": 100001,
+  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.0.1-android.1/AngimottiLedger-Android-v1.0.1.apk",
+  "sha256": "98272d5b90bf474b2f734e0510e27d0a8cc9b9c0b3d2bef688c4e9959216f92d",
+  "releaseNotes": "Android 차트 스크롤 개선: 월내 순흐름 계단선의 이름을 현금 월 유출 차트로 변경하고, 차트 위 세로 스와이프 시 페이지 스크롤이 간헐적으로 막히던 문제를 수정했습니다.",
+  "publishedAt": "2026-07-21T02:19:03Z"
 }
