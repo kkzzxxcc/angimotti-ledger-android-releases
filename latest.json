@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.4.6.3",
-  "versionCode": 40603,
-  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v0.4.6-android.3/AngimottiLedger-Android-v0.4.6.3.apk",
-  "sha256": "e3275934197fbba42e0ffb054aa262c92e8e840aa43b4b7919a1f30d3014ea49",
-  "releaseNotes": "Android WebView에서 세로 스크롤이 간헐적으로 동작하지 않던 긴급 버그를 수정했습니다.",
-  "publishedAt": "2026-07-16T02:28:30.259Z"
+  "versionName": "1.0.0",
+  "versionCode": 100000,
+  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.0.0-android.1/AngimottiLedger-Android-v1.0.0.apk",
+  "sha256": "ab9894caf5a3397e197d66d65c6581ae33f88ed541c757760b6b7c90922f7c51",
+  "releaseNotes": "정식 1.0.0: 현금흐름 러너·재생·날짜 스냅샷, 실제 달력형 지출 캘린더, 월내 순흐름 계단선과 신규 실험 기능 4종을 추가하고 실험실 생애주기를 개편했습니다.",
+  "publishedAt": "2026-07-21T01:58:40Z"
 }
