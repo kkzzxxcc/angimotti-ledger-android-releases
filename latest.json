@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.0.1",
-  "versionCode": 100001,
-  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.0.1-android.1/AngimottiLedger-Android-v1.0.1.apk",
-  "sha256": "98272d5b90bf474b2f734e0510e27d0a8cc9b9c0b3d2bef688c4e9959216f92d",
-  "releaseNotes": "Android 차트 스크롤 개선: 월내 순흐름 계단선의 이름을 현금 월 유출 차트로 변경하고, 차트 위 세로 스와이프 시 페이지 스크롤이 간헐적으로 막히던 문제를 수정했습니다.",
-  "publishedAt": "2026-07-21T02:19:03Z"
+  "versionName": "1.0.2",
+  "versionCode": 100002,
+  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.0.2-android.1/AngimottiLedger-Android-v1.0.2.apk",
+  "sha256": "8140c61af93edfffcbae1c769d662cbe35b80e40926c88e5b6c2d62c3ce19fae",
+  "releaseNotes": "Android 1.0.2 테스트 배포: 업데이트 확인, APK 다운로드, SHA-256 검증 및 설치 연결 흐름을 점검합니다.",
+  "publishedAt": "2026-07-21T11:55:00Z"
 }
