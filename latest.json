@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.0.2",
-  "versionCode": 100002,
-  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.0.2-android.1/AngimottiLedger-Android-v1.0.2.apk",
-  "sha256": "8140c61af93edfffcbae1c769d662cbe35b80e40926c88e5b6c2d62c3ce19fae",
-  "releaseNotes": "Android 1.0.2 테스트 배포: 업데이트 확인, APK 다운로드, SHA-256 검증 및 설치 연결 흐름을 점검합니다.",
-  "publishedAt": "2026-07-21T11:55:00Z"
+  "versionName": "1.1.0",
+  "versionCode": 100100,
+  "apkUrl": "https://github.com/kkzzxxcc/angimotti-ledger-android-releases/releases/download/v1.1.0-android.1/AngimottiLedger-Android-v1.1.0.apk",
+  "sha256": "f087c1019643d1133791034c225f1de876bde047c54378f1ed4bdc347a81b2d3",
+  "releaseNotes": "Android 1.1.0: 월 반복 일정, 일회성 내역과 카드 청구, 내역 선택 요약, 실험 도구, 대시보드 및 내비게이션 개선을 반영했습니다.",
+  "publishedAt": "2026-08-12T07:00:50Z"
 }
